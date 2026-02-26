@@ -83,16 +83,9 @@ Me chamo Alisson Eduardo Antunes Marques, tenho 24 anos e sou natural de Santa C
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alisson-devo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
 
 <img 
       align="left" 
